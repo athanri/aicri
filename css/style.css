@@ -812,3 +812,25 @@
   .sponsorsBG {
     background-color: #F0EFFF !important;
   }
+
+  .footer {
+    background-color: #91886C !important;
+    color: #ffffff !important;
+  }
+
+  .copy {
+    font-size: small;
+    color: #ffffff !important;
+  }
+
+  .touch {
+    font-size:large;
+    color: #ffffff !important;
+    font-weight: bold;
+  }
+
+  .cookie>a {
+    font-size: medium;
+    color: #ffffff !important;
+    text-decoration: underline;
+  }
